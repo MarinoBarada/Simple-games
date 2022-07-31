@@ -5,7 +5,5 @@ Tic-tac-toe is played on an empty 3x3 field. Player O places the circles and pla
 
 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+- [Sorce code](https://github.com/MarinoBarada/Simple-games/blob/main/TicTacToe/TicTacToe/tictactoe.cpp)
 
