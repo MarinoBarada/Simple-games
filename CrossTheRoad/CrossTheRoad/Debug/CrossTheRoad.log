@@ -1,0 +1,4 @@
+﻿  cross-the-road.cpp
+C:\Users\MarinoBarada\source\repos\CrossTheRoad\CrossTheRoad\cross-the-road.cpp(89,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MarinoBarada\source\repos\CrossTheRoad\CrossTheRoad\cross-the-road.cpp(182,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CrossTheRoad.vcxproj -> C:\Users\MarinoBarada\source\repos\CrossTheRoad\Debug\CrossTheRoad.exe
